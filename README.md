@@ -4,3 +4,5 @@
 Repositório criado e alterado no Curso em VIDEO.
 
 Repositório alterado novamente no README.md
+
+Páginas base do projeto adicionadas.
